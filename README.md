@@ -121,52 +121,67 @@ section {
 
     <h1>S</h1>
     <h3>CABIN, PODHRADÍ U AŠE</h3>
-    <h3>Design Proposal Summary</h3>
-    <p>The objective of this study was to design a minimalist family house on a sloped plot in the village of Podhradí, located in the Sudetes region, 5 km north of Aš, in the Czech Republic. The plot, situated on the edge of the village and near a forest, offers scenic views of the valley. The terrain features two terraces, with the house positioned on the upper one.</p>
+    <h3>Strategie</h3>
+    <p>Cílem bylo navrhnout minimalistický prázdninový dům na svažitém pozemku v Podhradí, asi 5 km severně od Aše. Pozemek leží na okraji vesnice a lesa a nabízí malebné výhledy na celou ves. Objekt vsazujeme do hodně svažitého terénu a formujeme dvě terasy, jednu pro skleník, druhou pro pár židlí a pohovku s výhledem do údolí.</p>
 
-    <p>The design consists of a single-story structure with a gabled roof, oriented towards the valley. The layout includes an open-plan living space with a box that houses the entrance, bathroom, technical room, kitchen, and sleeping area in a loft above. The interior is clad in birch plywood with light grey marmoleum flooring, while the exterior features a light beige plaster finish. Windows have matching frames, and the roof is covered with light grey aluminum sheets.</p>
+    <p>Výsledkem je jednopodlažní stavba se sedlovou střechou orientovanou směrem k údolí. Středem dispozice je převýšený obývací pokoj s galerií na spaní nad malou kupelnou, zádveřím a technickou místností. Interiér obkládáme březovou překližkou, podlahu vyléváme betonovou stěrkou. Navrhujeme skromný moderní domek zapadající do kontextu vesnice.</p>
+    </section>
+
+    <h1>M</h1>
+    <h3>HOTEL XPUHA</h3>
+    <h3>propojení s přírodou</h3>
+    <p>Projekt Hotel Xpuha se nachází v Chetumalu na pobřeží Karibského moře, propojuje městskou třídu s privátní pláží v klidu puvodni džungle.</p>
+    
+    <h3>Respekt k přírodě</h3>
+    <p>Architektonický návrh vychází z respektu k přírodě. Budovy organických tvarů jsou přirozeně začleněné do džungle. Hotely i rezidence jsou navržené s ohledem na soukromí a klid, které umožňují plně si vychutnat prostředí.</p>
+    
+    <p>Areál doplňuje fitness, wellness, restaurace a beach club na pláži. Každá část projektu je propojena s přírodou a zároveň nabízí dostatek prostoru pro relaxaci nebo aktivní odpočinek.</p>
     </section>
 
     <section>
     <h1>L</h1>
     <h3>COMMUNITY HOUSE, HUMPOLEC</h3>
-    <h3>The Project Approach</h3>
-    <p>This project centers on the reconstruction and potential extensions of a building complex bounded by Soukenická, Husova, and Smetanova streets, with a southern service link connecting the department store and school. The scope includes the redesign of surrounding public spaces, focusing on the service road and the adjacent eastern park, serving as a key entry point to the event hall.</p>
+    <h3>Strategie rekonstrukce</h3>
+    <p>Projekt se zaměřuje na rekonstrukci a možné rozšíření komplexu budov v centru Humpolce. Nedokončený blok je v současnosti nesourodou koláží základní školy, základní umělecké školy, obecního domu a multifunkčního sálu, který čeká na doplnění kavárnou a jídelnou.</p>
+    
+     <h3>Architektonický jazyk</h3>
+    <p>Stávající škola a kulturní centrum, které prošly různými rekonstrukcemi, zejména v 90. letech, představují směsici různých architektonických etap. Náš přístup spočívá v zachování kvalit původního návrhu, odstranění zbytečných úprav a optimalizaci funkčnosti. Objekty jsou sjednoceny novým architektonickým jazykem, který vytváří soudržný celek.</p>
+    
+     <h3>Veřejné prostory</h3>
+    <p>Podobně jsou řešeny i veřejné prostory s ohledem na městskou integraci. Ve spolupráci s krajinářskými architekty jsme posílili stávající zelenou infrastrukturu a vytvořili promenádu, která propojuje klíčové zelené plochy ve městě. Kolmo na tuto promenádu zavádíme nové propojení mezi dvěma hlavními náměstími v Humpolci, přičemž podél těchto os jsou situovány nové občanské vybavenosti a nové vstupy, které doplňují celkovou dispozici.</p>
+     </section>
 
-    <p>The existing school and community center, having undergone various reconstructions—primarily in the 1990s—are a patchwork of different architectural phases. Our approach seeks to preserve the strengths of the original design while removing unnecessary alterations and optimizing functionality. The volumes are unified through a new architectural language, creating a cohesive whole.</p>
-
-    <p>Similarly, the surrounding public space is treated with an eye for urban integration. In collaboration with landscape architects, we have enhanced the existing green infrastructure, forming a promenade that connects key green spaces throughout the city. Perpendicular to this promenade, we introduce a new link between two major squares in Humpolec, aligning new civic amenities along these axes and situating new entrances to complement the layout.</p>
- </section>
-
-<section>
+    <section>
     <h1>XL</h1>    
-    <h3>ALBRECHTICE NAD VLTAVOU SQUARE</h3>
-    <h3>Current state</h3>
+    <h3>NÁMĚSTÍ ALBRECHTICE NAD VLTAVOU</h3>
+    <h3>Stávající stav</h3>
 
-<p>The village square currently lacks a defined center and primarily serves as a parking lot and bus turnaround. The proposed design seeks to transform this space into a cohesive, functional public area by unifying fragmented elements and removing barriers.</p>
+    <p>Vesnické náměstí v současné době postrádá jasně definované centrum a slouží především jako parkoviště a točna pro autobusy. Navrhované řešení si klade za cíl proměnit tento prostor v jednotnou a funkční veřejnou plochu prostřednictvím sjednocení roztříštěných prvků a odstranění bariér.</p>
 
-<h3>The design proposal</h3>
+    <h3>Navrhované řešení</h3>
 
-<p>Key to the design is the enhancement of the visual axis toward the church tower, establishing a smooth transition from the urban environment to the natural landscape surrounding the Albrechtický stream.</p>
+    <p>Klíčovým prvkem návrhu je zdůraznění vizuální osy směřující k věži kostela a vytvoření plynulého přechodu mezi urbanizovaným prostředím a přírodní krajinou obklopující Albrechtický potok.</p>
 
-<p>In the southern section of the square, where the main axes intersect, we propose a central public space—a paved area designed for events and gatherings. This design also includes the removal of the road near František Král’s house, fully integrating it into the square and promoting a sense of community.</p>
+    <p>V jižní části náměstí, kde se protínají hlavní osy, navrhujeme centrální veřejný prostor – dlážděnou plochu určenou pro pořádání akcí a setkávání. Součástí návrhu je také odstranění silnice u domu Františka Krále, čímž dojde k plnému začlenění této oblasti do náměstí a podpoře komunitního ducha.</p>
 
-<p>To create a more inviting atmosphere, the northern part of the square will be softened with greenery, featuring a terraced seating area shaded by trees. This area will provide a tranquil spot for visitors.</p>
+    <p>Pro vytvoření příjemnější atmosféry bude severní část náměstí zjemněna výsadbou zeleně. Tato oblast bude zahrnovat terasovité posezení zastíněné stromy, což návštěvníkům poskytne klidné místo k odpočinku.</p>
 
-<p>We will also realign the connection between the road and the chapel cemetery, reinforcing the ceremonial path, which is a significant feature of the village. The introduction of tall, solitary trees typical of the region will enhance the visual appeal and create a layered landscape, making the square a vibrant hub for social events and gatherings.</p>
+    <p>Napojení cesty na hřbitov u kaple bude přesměrováno tak, aby posílilo význam obřadní stezky, která představuje významný prvek vesnice. Vysoké, osamělé stromy, typické pro tento region, budou doplněny s cílem zvýšit vizuální atraktivitu prostoru a vytvořit vrstevnatou krajinu. Tento přístup promění náměstí v živé centrum pro společenské události a setkávání.</p>
      
     </section>
 
-<section>
+    <section>
     <h1>XXL</h1>
-    <h3>TUCHLOVICE SQUARE</h3>
-    <h3>Current state</h3>
+    <h3>NÁMĚSTÍ TUCHLOVICE</h3>
+    <h3>Stávající stav</h3>
 
-<p>Tuchlovice Square currently lacks the qualities of a true town center. It fails to support pedestrian flow, cultural events, or function as a cohesive public space. The area, positioned at the intersection of Ke Stráži and Karlovarská streets, suffers from disconnection and inconsistent urban solutions. However, the space offers significant potential.</p>
+    <p>Tuchlovické náměstí postrádá charakter skutečného městského centra. Neslouží pro pohodlný pohyb chodců, pořádání kulturních akcí ani jako soudržný veřejný prostor. Je prostorem vetknutým mezi ulici Ke Stráži a rychlostní silnicí. prostor trpí špatným propojením občanské vybavenosti, je nekonzistentní a nepropojený širší koncepcí. Přesto má tento prostor značný potenciál.</p>
 
-<h3>The design strategy</h3>
+    <h3>Strategie návrhu</h3>
 
-<p>Our design strategy focuses on revitalizing existing layers rather than introducing entirely new ones. We aim to enhance the functional diversity of both sides of Karlovarská street, creating a pedestrian-friendly environment with green spaces and public amenities. The plan introduces better connectivity between key community spaces, such as shops, parks, and recreational areas, while maintaining and integrating mature trees as essential elements of the square‘s character. A new multi-functional structure will combine a bus stop, retail, public restrooms, and event facilities, ensuring the space serves both daily needs and larger town gatherings.</p>
+    <p>V návrhu se primárně zaměřujeme na revitalizaci stávajících vrstev namísto zavádění zcela nových prvků. Cílem je zvýšit funkční rozmanitost obou stran Karlovarské ulice a vytvořit prostředí přívětivé pro chodce, doplněné zelenými plochami a veřejnými službami. Plán zlepšuje propojení mezi klíčovými komunitními prostory, jako jsou obchody, parky a rekreační plochy, přičemž zachovává a integruje vzrostlé stromy jako podstatný prvek charakteru náměstí.</p>
 
-<p>The square’s design emphasizes flexibility, allowing it to host a wide range of community events, from markets to festivals, transforming it into a vibrant and essential public space for Tuchlovice.</p>
-</section>
+    <p>Součástí návrhu je nová multifunkční stavba, která bude zahrnovat autobusovou zastávku, maloobchodní prostory, veřejné toalety a zařízení pro pořádání akcí. Tímto způsobem bude náměstí sloužit každodenním potřebám i větším městským setkáním.</p>
+
+    <p>Design náměstí klade důraz na flexibilitu, narhujeme prostory pro širokou škálu komunitních akcí – od trhů až po festivaly. Měníme náměstí v živý a důležitý veřejný prostor pro všechny obyvatele Tuchlovic.</p>
+    </section>
